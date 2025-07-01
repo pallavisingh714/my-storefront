@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/pallavisingh714/my-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
